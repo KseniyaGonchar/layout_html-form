@@ -1,1 +1,60 @@
-/* styles go here */
+form {
+  margin-bottom: 20px;
+  padding-bottom: px;
+}
+
+fieldset {
+  padding-bottom: 3px;
+}
+
+.inline {
+  display: block;
+  margin-bottom: 10px;
+}
+
+.inlineLast {
+  margin-bottom: 3px;
+}
+
+#agree {
+  margin-bottom: 7px;
+}
+
+#pwd {
+  margin-bottom: 7px;
+}
+
+#color {
+  margin-top: 2px;
+}
+
+#range {
+  margin-bottom: 5px;
+}
+
+#ourwork {
+  margin-top: 8px;
+}
+
+.car {
+  margin-bottom: 2px;
+}
+
+.comments {
+  margin-bottom: 10px;
+}
+
+textarea {
+  margin-bottom: px;
+}
+
+input {
+  margin-top: px;
+  margin-bottom: px;
+  padding-bottom: px;
+}
+
+select {
+  margin-top: px;
+  margin-bottom: 5px;
+}
